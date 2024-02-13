@@ -1,0 +1,40 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  margin: 30px;
+  font-family: "Patua One", serif;
+  font-size: 6rem;
+  color: yellowgreen;
+}
+
+p {
+  font-size: 2rem;
+  color: #1f5779;
+  font-family: "Patua One", serif;
+}
+
+img {
+  width: 70%;
+}
+
+footer {
+  margin-top: 5%;
+  color: black;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
